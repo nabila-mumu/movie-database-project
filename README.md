@@ -109,14 +109,6 @@ Toy Story,1995,Animation,Comedy,Family,81,Pixar Animation Studios,30000000,37355
 
 The application stores up to three genre fields for each movie. Some records leave genre fields blank. Running time, budget, and revenue are stored as integers.
 
-## Source Code Overview
-
-| File | Responsibility |
-| --- | --- |
-| `Movie.java` | Defines the movie attributes, getters, and display method. |
-| `FileOperation.java` | Loads and writes movie records, implements search and statistical operations, and starts the application. |
-| `Menu.java` | Handles user input and navigation through the movie and company menus. |
-
 ## Project Focus
 
 This project demonstrates Java fundamentals through a practical, menu-driven application, including **classes and objects**, **lists and priority queues**, **text-file persistence**, and **searching and aggregating records**.
